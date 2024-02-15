@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: larger;
+
+
+}
+p{
+    text-shadow:2px;
+    color-adjust:blue;
+    font-size:larger;
+}
